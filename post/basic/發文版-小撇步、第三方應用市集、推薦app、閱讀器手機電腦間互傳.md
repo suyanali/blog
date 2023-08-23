@@ -61,6 +61,14 @@ https://youtu.be/fklgJAPLmt8
 --
 沒使用但有eink版的程式
 1. [墨案版kindle](https://1drv.ms/u/s!AvM3V2ZGAU0QqSUov1UwrAAUY_C6?e=FXNq2L)：只能登錄中亞帳號，其他地區(ex美版)帳號依花園大大所留言要下載國際版kindle並同時保留墨案版，國際版安裝登入美版帳號後，可直接用墨案版閱讀
+## 小撇步
+
+小撇步1：常用的apk檔、網站連結、webdav連結帳密寫成文本等可以**放在雲端**，例如onedrive，一款app在國際版或大陸版機子大多可以在自家應用市集下載。或者將放在onedrive**資料夾開共享**，並將共享連結丟到[短網址](https://picsee.io/)生成一個好記的網址，就可以直接在機子上的瀏覽器輸入網址進入資料夾來下載檔案。
+如果閱讀器有相機(且可以辨識QR code內容)，可以把共享網址轉成[QR code](https://qr.ioi.tw/zh/)後將閱讀器開啟相機對準QR code讀取網址資訊後跳轉。
+
+小撇步2：
+可以直接在閱讀器裡內建瀏覽器搜尋"apkpure apk" 下載並安裝後開啟apkpure，先安裝輸入法，搜尋"gboard"安裝並開啟設定注音輸入/倉頡/等等習慣的輸入法。之後把想安裝的app名字在apkpure搜尋→下載→安裝這樣循環。
+PS:有時因為內建瀏覽器的預設搜尋引擎不好搜尋到apkpure網站，可以先搜尋"google"到google搜尋首頁，再從google搜尋"apkpure apk"。
 
 ## 閱讀器、手機、電腦間互傳檔案/文字/連結
 1. 放到通訊軟體，例如telegram
