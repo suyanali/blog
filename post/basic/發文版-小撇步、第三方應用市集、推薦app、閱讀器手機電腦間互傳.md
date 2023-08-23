@@ -22,19 +22,22 @@ https://youtu.be/TdfCPL_6hHc
 06:04 第三個部分：各裝置之間互傳
 
 第二影片為閱讀器直接操作:apkpure下載安裝流程含gboard設定，影片時間怕拉太長我有加速，要慢速可到youtube看
+
 https://youtu.be/fklgJAPLmt8 
----正文---
+
+- ---正文---
+
 # 第三方應用市集
 -**涉及登陸google帳號都須斟酌是否要在第3方應用程式登錄使用**
 -**沒google play、app因帳號跨區不能下載、google沒上架時可以使用**
 -**若要更新程式需要靠第三方應用市集更新，從網頁下載就得回網站再次下載後安裝覆蓋**
 - apkpure官網下載(可網站或app安裝，注意下載的檔案為apk才能直接安裝，如果xapk就得安裝apkpure app才能用它安裝。)
-https://m.apkpure.com/tw/apkpure/com.apkpure.aegon/download/3193417-apk?utm_content=1006&icn=aegon&ici=text_home-m&from=text_home-m?icn=aegon&ici=text_home-m&utm_content=1033
+  - https://m.apkpure.com/tw/apkpure/com.apkpure.aegon/download/3193417-apk?utm_content=1006&icn=aegon&ici=text_home-m&from=text_home-m?icn=aegon&ici=text_home-m&utm_content=1033
 - aurora store官網下載(跟google play相同，登錄帳號會因為帳號地區有些app不顯示，可以下載已購買的app)(使用app安裝)
-https://aurorastore.org/
-官網找不到下載點可點 https://f-droid.org/zh_Hant/packages/com.aurora.store/
+  - https://aurorastore.org/
+  - 官網找不到下載點可點 https://f-droid.org/zh_Hant/packages/com.aurora.store/
 - apkcombo官網線上下載apk(這網站涵蓋app更多，有含中國版、TV版等app，直接線上下載各個程式安裝檔，可以把網址設捷徑到桌面喔!!)
-https://apkcombo.com/tw/
+  - https://apkcombo.com/tw/
 - 看內建的應用市場有沒有自己要的app
 - google搜尋 程式名+apk，例如 讀墨 apk
 ## 建議放到資料夾的app
