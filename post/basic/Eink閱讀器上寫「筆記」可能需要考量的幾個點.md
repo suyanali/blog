@@ -102,6 +102,7 @@ tags:  #電子書or閱讀器
 	- readmoo→讀墨閱讀器(10吋以上)
 	- kobo→kobo閱讀器(Sage、Elipsa、Libra Colour )
 	- pubu→Pubook Pro
+	- 微信讀書→有幾家閱讀器有對微信讀書墨水屏版匹配，可能需更新系統+指定應用市集下載+本身有手寫功能，例如boox、掌閱、墨案、漢王 等等
 ##### Eink閱讀器與書城不同品牌或app無這功能
 - 書檔不能匯出→放棄吧!!換一台同品牌或一般平板(前提app版有手寫功能，例如hyread app的pdf書、kobo app ipad版才能手寫)或換書城。
 - 書檔能匯出→處理後用內建閱讀軟體開啟檔案(ex kobo、google圖書部分、pubu部分)
