@@ -149,10 +149,15 @@ tags:  #電子書or閱讀器
 - 電池的話為AAAA或其他?
 
 # 結論
-因為eink比較特殊，所以要手寫"**一定**"要找本身就有支援手寫的機種才有好的體驗。在書城app買的書上手寫需要仰賴這app有這功能（書城上epub跟pdf書哪個能手寫也是看書城設計），若要不延遲基本上得 **自家書城+自家閱讀器**，例如hyread書城+hyread閱讀器(7.8吋以上，HyRead書城pdf書可直接塗鴉，epub書要先確定系統為最新版)；讀墨書城+讀墨閱讀器(10吋以上)；kobo書城+kobo閱讀器(Sage、Elipsa、Libra Colour ) ; kindle書城+kindle scribe ; pubu書城+ Pubook Pro 。**非內建app**上"**一定**"要先確認該app有沒有特別為這台做處理？沒有的話，體驗會很糟。目前已知boox會對onenote跟wps做處理。
+因為eink比較特殊，所以要手寫"**一定**"要找本身就有支援手寫的機種才有好的體驗。在書城app買的書上手寫需要仰賴這app有這功能（書城上epub跟pdf書哪個能手寫也是看書城設計），若要不延遲基本上得 **自家書城+自家閱讀器**，例如hyread書城+hyread閱讀器(7.8吋以上，HyRead書城pdf書可直接塗鴉，epub書要先確定系統為最新版)；讀墨書城+讀墨閱讀器(10吋以上)；kobo書城+kobo閱讀器(Sage、Elipsa、Libra Colour ) ; kindle書城+kindle scribe ; pubu書城+ Pubook Pro 。特定機型有"全局手寫"功能，雖然可能不如書城本身內建的與書兼容這麼完美，但也算一種暫替或不完美方案(重度手寫使用者還是得考慮這種替代方案適不適合你)。 **非內建app**上"**一定**"要先確認該app有沒有特別為這台做處理？沒有的話，體驗會很糟。目前已知boox會對onenote跟wps做處理。
 因為依照糰子大大所說"安卓系統從畫面渲染到電子紙刷新整個流程太耗時導致的必然結果，所以各家才需要自己為自己做手寫加速"
 
 一般平板就不會有手寫特大延遲問題
+
+**補充**： boox近期有神人撰寫app可以在第三方應用程式中使用手寫不延遲，已試過hyread app是可行的有興趣可以看介紹後下載，好處是用hyread app自家pdf書塗鴉功能，也能儲存後跨裝置使用(畢竟是存在hyread家雲端)。其實就是把eink那個第三方應用程式中使用手寫延遲缺陷給剃除。缺點為書城app沒有做手寫就沒用，另外這是網友自製軟體不好說有沒有bug，然後也不確定每一台boox都能用
+https://www.facebook.com/groups/ereaderfamily/posts/8598276646895760/
+軟體位置: https://github.com/sergeylappo/boox-rapid-draw
+
 ![Imgur](https://i.imgur.com/edYYNtK.png)
 
 
