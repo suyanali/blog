@@ -53,7 +53,8 @@ tags:  #未分類
 ---
 ---
 1. prompt來自 https://www.threads.com/@prompt_case/post/DKzLVCFNs5q?xmt=AQF01KiCGxQliy_xilEupl8-J0qEe8X5qY3SA6wak9Ja7w
-2. 文章分享: https://github.com/suyanali/blog/blob/main/Other/%E5%AD%97%E5%B9%95_%E8%AA%9E%E9%9F%B3%E8%BD%89%E6%96%87%E5%AD%97%2B%E7%BF%BB%E8%AD%AF(google%20ai%20studio)%E8%87%AA%E5%8B%95%E5%8C%96.md
+2. 文章同步發布於: https://github.com/suyanali/blog/blob/main/Other/%E5%AD%97%E5%B9%95_%E8%AA%9E%E9%9F%B3%E8%BD%89%E6%96%87%E5%AD%97%2B%E7%BF%BB%E8%AD%AF(google%20ai%20studio)%E8%87%AA%E5%8B%95%E5%8C%96.md
+3. 可搭配教學影片服用: https://youtu.be/pXxUNgjT9pc
 ---
 ## 原則： 影片轉音檔並切割→依序上傳google ai studio(沒處理好就多問幾次)、下載→整理+合併srt檔
 用什麼方式切割或合併字幕檔都可以，依自己習慣。
