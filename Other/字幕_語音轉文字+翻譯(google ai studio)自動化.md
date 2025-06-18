@@ -4,7 +4,7 @@ title: 字幕_語音轉文字+翻譯(google ai studio)自動化
 tags: [未分類]
 categories: 未分類
 date: 2025-06-18T08:55:26
-modified: 2025-06-18T16:32:33
+modified: 2025-06-18T16:49:09
 draft: false
 toc: true
 ---
@@ -17,6 +17,7 @@ tags:  #未分類
 
 ---
 # 字幕_語音轉文字+翻譯(google ai studio)自動化
+---
 
 ---
 
@@ -33,17 +34,26 @@ tags:  #未分類
 >                - [**--有興趣也可以照以下步驟自己建立--**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**--有興趣也可以照以下步驟自己建立--**)
 >            - [3.(可有可無)批次變更檔名](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#3.(可有可無)批次變更檔名)
 >        - [(2)分割後影片上傳google ai studio](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#(2)分割後影片上傳google%20ai%20studio)
->            - [●ai常見錯誤1:](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#●ai常見錯誤1:)
->            - [●ai常見錯誤2:](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#●ai常見錯誤2:)
->            - [●ai常見錯誤3:](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#●ai常見錯誤3:)
+>            - [**1.到google ai studio網站**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**1.到google%20ai%20studio網站**)
+>            - [**2.選擇上傳檔案**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**2.選擇上傳檔案**)
+>            - [**3.找到audio_parts裡音檔，只上傳"一個"**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**3.找到audio_parts裡音檔，只上傳"一個"**)
+>            - [**4.輸入指定prompt，跟音檔一起Run**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**4.輸入指定prompt，跟音檔一起Run**)
+>            - [**5.確認生成的srt是否符合格式以及是否有翻譯成繁體中文**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**5.確認生成的srt是否符合格式以及是否有翻譯成繁體中文**)
+>            - [**6.字幕檔達標準就可以下載下來，副檔名直接用.srt儲存，小錯誤字幕軟體能自動修正**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**6.字幕檔達標準就可以下載下來，副檔名直接用.srt儲存，小錯誤字幕軟體能自動修正**)
+>                - [●ai常見錯誤1:](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#●ai常見錯誤1:)
+>                - [●ai常見錯誤2:](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#●ai常見錯誤2:)
+>                - [●ai常見錯誤3:](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#●ai常見錯誤3:)
 >        - [(3) srt檔加入開頭、末端標記，使未來合併字幕好自動對齊時間軸](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#(3)%20srt檔加入開頭、末端標記，使未來合併字幕好自動對齊時間軸)
 >                - [**--有興趣也可以照以下步驟自己建立--**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**--有興趣也可以照以下步驟自己建立--**)
 >        - [(4)合併字幕並對齊時間軸](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#(4)合併字幕並對齊時間軸)
 >                - [**--有興趣也可以照以下步驟自己建立--**](字幕_語音轉文字+翻譯(google%20ai%20studio)自動化.md#**--有興趣也可以照以下步驟自己建立--**)
 
 ---
-1. prompt來自 https://www.threads.com/@prompt_case/post/DKzLVCFNs5q?xmt=AQF01KiCGxQliy_xilEupl8-J0qEe8X5qY3SA6wak9Ja7w
 
+---
+---
+1. prompt來自 https://www.threads.com/@prompt_case/post/DKzLVCFNs5q?xmt=AQF01KiCGxQliy_xilEupl8-J0qEe8X5qY3SA6wak9Ja7w
+2. 文章分享: https://github.com/suyanali/blog/blob/main/Other/%E5%AD%97%E5%B9%95_%E8%AA%9E%E9%9F%B3%E8%BD%89%E6%96%87%E5%AD%97%2B%E7%BF%BB%E8%AD%AF(google%20ai%20studio)%E8%87%AA%E5%8B%95%E5%8C%96.md
 ---
 ## 原則： 影片轉音檔並切割→依序上傳google ai studio(沒處理好就多問幾次)、下載→整理+合併srt檔
 用什麼方式切割或合併字幕檔都可以，依自己習慣。
@@ -171,16 +181,16 @@ pause
 因為檔名太長了(我不好快速分辨)，使用批次改檔名方式改，或手動改，或者在一開始影片名稱就不要那麼長
 ![Imgur](https://i.imgur.com/NaMP9Js.png)
 ### (2)分割後影片上傳google ai studio
-**1.到google ai studio網站**
+#### **1.到google ai studio網站**
 
-**2.選擇上傳檔案**
+#### **2.選擇上傳檔案**
 
 ![Imgur](https://i.imgur.com/bV24KnM.png)
 
-**3.找到audio_parts裡音檔，只上傳"一個"**
+#### **3.找到audio_parts裡音檔，只上傳"一個"**
 ![Imgur](https://i.imgur.com/TwbImgU.png)
 
-**4.輸入指定prompt，跟音檔一起Run**
+#### **4.輸入指定prompt，跟音檔一起Run**
 
 ![Imgur](https://i.imgur.com/m1gigsx.png)
 
@@ -232,7 +242,7 @@ SRT 結構的關鍵規則（必須毫無例外地嚴格遵守）：
 請根據提供的音檔，直接生成一份完全符合上述所有 SRT 結構和字幕生成規則的繁體中文字幕內容。再次強調，SRT 格式的精確性至關重要，特別是 確保每個時間碼都包含 hh: 部分 (即使是 00:)、每個字幕塊的字幕文字部分只有一行、時間碼的逗號、毫秒補零以及字幕塊之間的空行。最後輸出為 srt 檔案下載。"
 ```
 
-**(3)確認生成的srt是否符合格式以及是否有翻譯成繁體中文**
+#### **5.確認生成的srt是否符合格式以及是否有翻譯成繁體中文**
 
 若沒有翻成繁體中文，再下一次如下prompt：
 ```txt
@@ -244,11 +254,12 @@ SRT 結構的關鍵規則（必須毫無例外地嚴格遵守）：
 請修正字幕時間碼格式，符合SRT格式標準
 ```
 
-**(4)字幕檔達標準就可以下載下來，小錯誤字幕軟體能自動修正**
+#### **6.字幕檔達標準就可以下載下來，副檔名直接用.srt儲存，小錯誤字幕軟體能自動修正**
+![Imgur](https://i.imgur.com/ehpgNx0.png)
 
 建議下載下來的Srt都經過字幕軟體自動修正
 
-#### ●ai常見錯誤1:
+##### ●ai常見錯誤1:
 `第一行 00:01.123 00.01.999`
 →無小時→可以手動修正，一般第一行補上"00:00:01.123 00:00.01.999"字幕軟體能自己修
 
@@ -258,7 +269,7 @@ SRT 結構的關鍵規則（必須毫無例外地嚴格遵守）：
 
 ![Imgur](https://i.imgur.com/L7aFqdO.png)
 
-#### ●ai常見錯誤2:
+##### ●ai常見錯誤2:
 `第一行 00:01:123 00.01:999`
 →毫秒前方錯誤使用分號
 →下prompt讓ai修
@@ -287,7 +298,7 @@ SRT 結構的關鍵規則（必須毫無例外地嚴格遵守）：
 時間碼行本身前後不得有任何多餘空格或字元。
 ```
 
-#### ●ai常見錯誤3:
+##### ●ai常見錯誤3:
 `10分鐘影片出現srt時間不正常，未到9分多鐘`
 →重跑：請重新整理頁面，重新上傳音檔、下prompt重跑
 
