@@ -184,6 +184,8 @@ pause
 ### (2)分割後影片上傳google ai studio
 #### **1.到google ai studio網站**
 
+右邊模型選Gemini 2.5 pro
+
 #### **2.選擇上傳檔案**
 
 ![Imgur](https://i.imgur.com/bV24KnM.png)
